@@ -1,0 +1,25 @@
+nav {
+    border:1px solid #faebd7;
+    padding 2px 0px;
+    display: flex; 
+    font-family: Cardo, serif;    
+}
+
+blog {
+    display: flex;
+    padding: 20%;
+    background-image:url(images/artquote.jpg);
+    background-size: contain;
+    justify-content: center;
+    background-color: #bdb76b;
+    width: 50%;
+    font-family: Cardo, serif;
+}
+
+h2 {
+    justify-content:center;
+}
+
+ul {
+    list-style-type: decimal;
+}
